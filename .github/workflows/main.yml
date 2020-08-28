@@ -1,5 +1,8 @@
-name: CI / CD
-on: push
+name: Release
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   release:
