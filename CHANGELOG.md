@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/sharanyavinod/test-app/compare/v1.0.1...v1.0.2) (2020-08-28)
+
+
+### Bug Fixes
+
+* component updated ([5d83be1](https://github.com/sharanyavinod/test-app/commit/5d83be1540488529f41454b2bddd94320839255c))
+
 ## [1.0.1](https://github.com/sharanyavinod/test-app/compare/v1.0.0...v1.0.1) (2020-08-28)
 
 
