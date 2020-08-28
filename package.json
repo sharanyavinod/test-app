@@ -1,5 +1,5 @@
 {
-  "name": "sharanya/test-app",
+  "name": "sharanya-test-app",
   "version": "1.0.3",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
