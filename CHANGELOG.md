@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/sharanyavinod/test-app/compare/v1.0.3...v2.0.0) (2020-08-28)
+
+
+### Bug Fixes
+
+* package name updated ([b380d70](https://github.com/sharanyavinod/test-app/commit/b380d7060bdeaa015fcccbfa879d550ec4e7c632))
+* updated component ([639d1a1](https://github.com/sharanyavinod/test-app/commit/639d1a1a41f1727b9b516215ef4bff587391cad1))
+
+
+### BREAKING CHANGES
+
+* Rename of package
+
 ## [1.0.3](https://github.com/sharanyavinod/test-app/compare/v1.0.2...v1.0.3) (2020-08-28)
 
 
