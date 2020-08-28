@@ -2,7 +2,8 @@ import React from 'react';
 
 const Excerpt = () => (
     <div>
-        <h4> The Hitchhiker's Guide to the Galaxy</h4>
+        <h3>Don't Panic.</h3>
+        <p> Time is an illusion. Lunchtime doubly so.</p>
         <p>
             For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so
             much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time.
