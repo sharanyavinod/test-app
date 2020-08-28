@@ -9,6 +9,7 @@ const Excerpt = () => (
             much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time.
             But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons.
         </p>
+        
         <p>
             Now it is such a bizarrely improbable coincidence that anything so mind-bogglingly useful could have evolved purely by chance that some thinkers have chosen to see it as the final and clinching proof of the non-existence of God.
             The argument goes something like this: "I refuse to prove that I exist,'" says God, "for proof denies faith, and without faith I am nothing."
